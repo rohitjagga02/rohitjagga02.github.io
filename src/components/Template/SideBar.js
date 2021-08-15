@@ -30,7 +30,7 @@ const SideBar = () => (
           CIS545: Big Data Analytics
         </a>
         . This summer, I worked as a Machine Learning Research Intern at{' '}
-        <a href="https://www.chop.edu/">CHOP</a> and Sofware Engineer Intern at{' '}
+        <a href="https://www.chop.edu/">CHOP</a> and Software Engineer Intern at{' '}
         <a href="https://www.offwego.io/">OffWeGo</a>. I&apos;m currently
         looking for summer 2022 internships in software engineering, product
         management, &amp; data science.
