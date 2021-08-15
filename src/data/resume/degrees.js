@@ -7,7 +7,7 @@ const degrees = [
   },
   {
     school: 'North Carolina School of Science and Mathematics',
-    degree: 'High school diploma',
+    degree: 'High School Diploma',
     link: 'https://ncssm.edu',
     year: 2020,
   },
