@@ -4,13 +4,26 @@ const data = [
   {
     title: 'Tutoring Analytics Dashboard',
     subtitle: 'NC Virtual Public Schools (NCVPS) Peer Tutoring Center',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2019-12-20',
+    link: 'https://github.com/rohitjagga02/ncvps-analytics',
+    image: '/images/projects/ncvps.png',
+    date: '2019-09-20',
     desc:
-      'Built for a social impact hackathon. ' +
-      'NearestDollar connected to your bank accounts, credit cards, ' +
-      'or debit cards and rounded up your purchases to donate the balance to ' +
-      'the charity of your choice.',
+      'Built for students & teachers at NCVPS using Python, JavaScript, and HTML/CSS. ' +
+      'The dashboard fetches data from tutoring logs in real-time and ' +
+      'displays relevant graphs & data visualizations, allowing NCVPS to ' +
+      'identify trends in tutoring demand over the course of the semester and ' +
+      ' set more accurate organizational goals.',
+  },
+  {
+    title: 'Snake game (variant)',
+    subtitle: 'Variant of the classic game Snake.',
+    link: 'https://github.com/rohitjagga02/snake',
+    image: '/images/projects/snake.png',
+    date: '2020-12-10',
+    desc:
+      'Variant of the classic game Snake, written in Java with the Java Swing GUI library. ' +
+      'This project features a Linked List data structure for the snake body, several fruit power-ups, ' +
+      'and persistent state by using a save file of high-scores across different runs.',
   },
   // {
   //   title: 'Nearest Dollar',

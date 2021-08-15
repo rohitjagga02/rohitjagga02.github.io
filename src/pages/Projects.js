@@ -14,7 +14,11 @@ const Projects = () => (
           <h2 data-testid="heading">
             <Link to="/projects">Projects</Link>
           </h2>
-          <p>A selection of projects that I&apos;ve worked on.</p>
+          <p>
+            Some projects that I&apos;ve worked on. See my{' '}
+            <a href="https://github.com/rohitjagga02">github page</a> for the
+            source code.
+          </p>
         </div>
       </header>
       {data.map((project) => (
