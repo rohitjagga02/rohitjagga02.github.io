@@ -3,7 +3,7 @@
 
 const skills = [
   {
-    title: 'Javascript',
+    title: 'JavaScript',
     competency: 4,
     category: ['Languages'],
   },
@@ -18,7 +18,7 @@ const skills = [
     category: ['Frameworks'],
   },
   {
-    title: 'Amazon Web Services (AWS) EC2',
+    title: 'AWS EC2',
     competency: 3,
     category: ['Tools', 'Data Science/ML'],
   },
@@ -28,7 +28,7 @@ const skills = [
     category: ['Data Science/ML', 'Languages'],
   },
   {
-    title: 'Amazon Web Services (AWS) S3',
+    title: 'AWS S3',
     competency: 2,
     category: ['Tools', 'Data Science/ML'],
   },
@@ -48,12 +48,12 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Numpy',
+    title: 'NumPy',
     competency: 4,
     category: ['Data Science/ML', 'Python'],
   },
   {
-    title: 'Tensorflow + Keras',
+    title: 'TensorFlow + Keras',
     competency: 3,
     category: ['Data Science/ML', 'Python'],
   },
@@ -68,7 +68,7 @@ const skills = [
     category: ['Data Science/ML', 'Python'],
   },
   {
-    title: 'Typescript',
+    title: 'TypeScript',
     competency: 2,
     category: ['Languages'],
   },
@@ -123,12 +123,12 @@ const skills = [
     category: ['Data Science/ML', 'Python'],
   },
   {
-    title: 'Scikit-Learn',
+    title: 'scikit-learn',
     competency: 4,
     category: ['Data Science/ML', 'Python'],
   },
   {
-    title: 'Spark (and Spark MLLib)',
+    title: 'Spark',
     competency: 3,
     category: ['Data Science/ML'],
   },
