@@ -11,10 +11,10 @@ const Index = () => (
           <h2 data-testid="heading">
             <Link to="/">About this site</Link>
           </h2>
-          <p>
+          {/* <p>
             A statically-generated website written in React, Node.js, and styled
             with SCSS.
-          </p>
+          </p> */}
         </div>
       </header>
       <p>
