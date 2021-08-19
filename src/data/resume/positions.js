@@ -21,9 +21,9 @@ const positions = [
   },
   {
     company: 'OffWeGo',
-    position: 'Software Engineering Intern',
+    position: 'Software Engineer Intern',
     link: 'https://www.offwego.io/',
-    daterange: 'Jun 2021 - Aug 2021',
+    daterange: 'June 2021 - Aug 2021',
     points: [
       'Develop a groupchat SMS feature using Twilio API to enable trip-based messaging among OffWeGo mobile users.',
       'Analyze and model the risk associated with OffWeGo student travelers based on peer surveys, response rates ' +
@@ -35,7 +35,7 @@ const positions = [
     company: 'Art of Problem Solving',
     position: 'Teaching Assistant, Grader',
     link: 'https://artofproblemsolving.com/',
-    daterange: 'Feb 2020 - Aug 2021',
+    daterange: 'March 2020 - Aug 2021',
     points: [
       'Grade student-written proofs and assist in teaching courses in introductory/intermediate programming, combinatorics, ' +
         'number theory, algebra, etc. for contest math preparation at the advanced high school level.',
@@ -45,7 +45,7 @@ const positions = [
     company: 'NC State University',
     position: 'Research Intern',
     link: 'https://www.ncsu.edu/',
-    daterange: 'Jun 2019 - Feb 2020',
+    daterange: 'June 2019 - Feb 2020',
     points: [
       'Computational modeling of cell morphology in epithelial tissue undergoing morphogenesis.',
       'Completed research at NC State through the NCSSM Mentorship program.',
