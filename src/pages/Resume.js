@@ -14,6 +14,8 @@ import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
 
+import pdf from '../data/resume/resume.pdf';
+
 const sections = ['Education', 'Experience', 'Skills', 'Courses'];
 
 const Resume = () => (
@@ -30,6 +32,11 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>
             ))}
+          </div>
+          <div className="resume-pdf">
+            <Link to={pdf} target="_blank">
+              View as PDF
+            </Link>
           </div>
         </div>
       </header>
