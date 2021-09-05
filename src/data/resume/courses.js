@@ -2,7 +2,7 @@ const courses = [
   {
     title: 'Big Data Analytics',
     number: 'CIS 545',
-    link: 'https://sites.google.com/seas.upenn.edu/cis545-f20',
+    link: 'https://sites.google.com/seas.upenn.edu/cis545',
     university: 'University of Pennsylvania',
   },
   {

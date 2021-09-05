@@ -4,7 +4,7 @@ I am an undergraduate student at the University of Pennsylvania, where I'm pursu
 
 # Currently
 
-I am a Teaching Assistant (TA) for [CIS545: Big Data Analytics](https://sites.google.com/seas.upenn.edu/cis545-f20), a graduate-level class on applying fundamental data science &amp; machine learning techniques at the scale of massive, real-world datasets. Previously, I have worked as a Machine Learning Research Intern at the Children's Hospital of Philadelphia ([CHOP](https://www.chop.edu/)), and as a Software Engineering Intern at [OffWeGo](https://www.offwego.io/), a student-centric risk management startup.
+I am a Teaching Assistant (TA) for [CIS545: Big Data Analytics](https://sites.google.com/seas.upenn.edu/cis545), a graduate-level class on applying fundamental data science &amp; machine learning techniques at the scale of massive, real-world datasets. Previously, I have worked as a Machine Learning Research Intern at the Children's Hospital of Philadelphia ([CHOP](https://www.chop.edu/)), and as a Software Engineering Intern at [OffWeGo](https://www.offwego.io/), a student-centric risk management startup.
 
 # Future plans
 

@@ -30,7 +30,7 @@ const data = [
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/12ohitj/',
+    link: 'https://www.instagram.com/rohitjagga02/',
     label: 'Instagram',
     icon: faInstagram,
   },
