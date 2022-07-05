@@ -23,15 +23,14 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Rohit. I am a dual-degree student in Computer Science &amp;
-        Economics at <a href="https://www.upenn.edu/">UPenn</a>, where I&apos;m
-        a TA for{' '}
-        <a href="https://sites.google.com/seas.upenn.edu/cis545-f20">
-          CIS545: Big Data Analytics
-        </a>
-        . This summer, I worked as a Machine Learning Research Intern at{' '}
+        Economics at <a href="https://www.upenn.edu/">UPenn</a>. This summer, I
+        am working as an SDE Intern at{' '}
+        <a href="https://www.amazon.com/">Amazon</a>. Last summer, I worked as a
+        Machine Learning Research Intern at{' '}
         <a href="https://www.chop.edu/">CHOP</a> and as a Software Engineer
         Intern at <a href="https://www.offwego.io/">OffWeGo</a>. I&apos;m
-        currently looking for summer 2022 internships in tech &amp; finance.
+        currently looking for summer 2023 internships in tech &amp; quant
+        finance.
       </p>
       <ul className="actions">
         <li>

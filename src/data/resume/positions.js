@@ -1,10 +1,17 @@
 /* eslint-disable operator-linebreak */
 const positions = [
   {
+    company: 'Amazon',
+    position: 'Software Engineer Intern',
+    link: 'https://www.amazon.com/',
+    daterange: 'May 2022 - Present',
+    points: ['SDE Intern, Consumer Experience org'],
+  },
+  {
     company: 'University of Pennsylvania',
     position: 'Teaching Assistant for CIS 545: Big Data Analytics',
     link: 'https://upenn.edu',
-    daterange: 'Aug 2021 - Present',
+    daterange: 'Aug 2021 - Dec 2021',
     points: ['CIS 545 - Fall 2021, taught by Professor Zachary Ives'],
   },
   {

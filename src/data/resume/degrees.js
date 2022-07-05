@@ -3,7 +3,7 @@ const degrees = [
     school: 'University of Pennsylvania',
     degree: 'B.S.E. Computer Science, B.S. Economics',
     link: 'https://upenn.edu',
-    year: 'May 2023',
+    year: 'May 2024',
   },
   {
     school: 'North Carolina School of Science and Mathematics',

@@ -1,5 +1,11 @@
 const courses = [
   {
+    title: 'Algorithms',
+    number: 'CIS 320',
+    link: 'https://www.seas.upenn.edu/~cis320/',
+    university: 'University of Pennsylvania',
+  },
+  {
     title: 'Big Data Analytics',
     number: 'CIS 545',
     link: 'https://sites.google.com/seas.upenn.edu/cis545',
